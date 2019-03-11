@@ -5,8 +5,17 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node index"
+    "start": "node index"
+    
   },
   "author": "Vikrant Singh Bandral",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immeasurable-vikrant/node-http.git"
+  },
+  "bugs": {
+    "url": "https://github.com/immeasurable-vikrant/node-http/issues"
+  },
+  "homepage": "https://github.com/immeasurable-vikrant/node-http#readme"
 }
